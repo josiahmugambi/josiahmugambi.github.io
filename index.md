@@ -1,6 +1,6 @@
-# Learning by doing, Experiments
+# Learning by doing
 
-I believe in #LifeLongLearning and I plan to actively write as I learn by doing, which I trust will help me gain deeper knowledge of various topics. 
+I am a lifelong learner and I plan to actively write as I learn by doing, which I trust will help me gain deeper knowledge of various topics. 
 
 ### Interest areas
 My areas of interest include:
@@ -9,6 +9,6 @@ My areas of interest include:
 - Data Science and Engineering
 - Blockchain and Distributed Ledgers
 
-### 
+### So far
 Here are some links to what I'm working through or have worked through:
 - [Kubernetes](https://github.com/josiahmugambi/kubernetes)
