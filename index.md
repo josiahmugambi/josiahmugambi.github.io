@@ -1,6 +1,6 @@
 # Learning by doing
 
-I am a lifelong learner and I plan to actively write as I learn by doing, which I trust will help me gain deeper knowledge of various topics. 
+I am a [lifelong learner](https://en.wikipedia.org/wiki/Lifelong_learning) and I plan to actively write as I learn by doing, which I trust will help me gain deeper knowledge of various topics. 
 
 ### Interest areas
 My areas of interest include:
