@@ -2,11 +2,10 @@
 
 
 ### Background
-I needed a project to keep myself actively engaged learning AI/ML as so far it's been start-stop. Usually the best way to build up a skill. I've done lots of reading and studying - there are numerous resources online: 
- (wqu)[https://wqu.org] has a great data science course. From a data perspective, it has occured to me that I did a fair bit of it while working supporting Telco OSS platforms some years back. 
+I needed a project to keep myself actively engaged learning AI/ML as so far it's been start-stop. Usually the best way to build up a skill. I've done lots of reading and studying - there are numerous resources online such as  [WQU](https://wqu.org) which has a great data science course. From a data perspective, it has occured to me that I did a fair bit of it while working supporting Telco OSS platforms some years back. 
 
 ### Goal
-Keeping tabs on personal finance is generally a useful thing. However, most people don't actively or daily track their personal finances and I believe it is primarly because it is a tedious and boring.So I've been thinking about how take care of the mundane using tech, and reduce it to a minimum, while building up my AI/ML and python skills as I create something useful for myself and others.
+Keeping tabs on personal finance is a useful thing to do. However, most people don't actively or daily track their personal finances and I believe it is primarly because it is a tedious and boring.So I've been thinking about how take care of the mundane using tech, and reduce it to a minimum, while building up my AI/ML and python skills as I create something useful for myself and others.
 
 ### The General Plan
 - First thing I want to attempt is to classify my text messages - based on sender.

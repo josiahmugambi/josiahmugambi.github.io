@@ -17,6 +17,7 @@ Here are some links to what I'm working through or have worked through:
 
 #### Cloud
 - [Kubernetes The Hard Way](https://github.com/josiahmugambi/kubernetes)
+
 #### Data
 - [Making sense of my text messages - especially those from banks and MPESA](notes/data_txts.md)
 - [Preparing for the Google Cloud Professional Data Engineering Exam](notes/cloud_data_pde.md)
