@@ -1,4 +1,4 @@
-## Preparing for the Google Cloud Professional Data Engineering Certification Exam
+## Preparing for the Google Cloud Associate Cloud Engineer Certification Exam
 
 ### Background
 

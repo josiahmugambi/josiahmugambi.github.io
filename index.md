@@ -16,8 +16,9 @@ These four (some overlap) are of much interest currently. As someone who got int
 Here are some links to what I'm working through or have worked through:
 
 #### Cloud
-- [Kubernetes The Hard Way](https://github.com/josiahmugambi/kubernetes)
-
+- Started [Kubernetes The Hard Way](https://github.com/josiahmugambi/kubernetes)
+- Soon [Preparing for and Passing the Google Cloud Professional Cloud Architect Certification Exam v2](notes/cloud_pca.md)
+- Soon [Preparing for the Google Cloud Associate Cloud Engineer Certification Exam](notes/cloud_ace.md)
 #### Data
 - [Making sense of my text messages - especially those from banks and MPESA](notes/data_txts.md)
-- [Preparing for the Google Cloud Professional Data Engineering Exam](notes/cloud_data_pde.md)
+- Soon [Preparing for the Google Cloud Professional Data Engineering Certification Exam](notes/cloud_data_pde.md)
