@@ -1,21 +1,40 @@
-## Making sense of my text messages - especially those from banks and MPESA
+## Making sense of my MPESA transaction data
 
 ### Background
-I needed a project to keep myself actively engaged learning AI/ML as so far it's been start-stop. Usually the best way to build up a skill. I've done lots of reading and studying - there are numerous resources online such as  [WQU](https://wqu.org) which has a great data science course. From a data perspective, it has occured to me that I did a fair bit of it while working supporting Telco OSS platforms some years back. 
 
-### Goal
-Keeping tabs on personal finance is a useful thing to do. However, most people don't actively or daily track their personal finances and I believe it is primarly because it is a tedious and boring.So I've been thinking about how take care of the mundane using tech, and reduce it to a minimum, while building up my AI/ML and python skills as I create something useful for myself and others.
+I needed a project to keep myself actively engaged learning AI/ML as so far it's been start-stop. Usually the best way to build up a skill. I've done lots of reading and studying - there are numerous resources online such as  [WQU](https://wqu.org) which has a great data science course. From a data perspective, it has occured to me that I did a fair bit of it while working supporting Telco OSS platforms some years back.
 
-### The General Plan
+#### Goal
+
+Keeping tabs on personal finance is a useful thing to do. However, most people don't actively or daily track their personal finances and I believe it is primarly because it is a tedious and boring. So I've been thinking about how take care of the mundane using tech, and reduce it to a minimum, while building up my AI/ML and python skills as I create something useful for myself and others.
+
+#### The Initial Plan
+
 - First thing I want to attempt is to classify my text messages - based on sender.
 - Next thing will be to make sense of my various finance related text messages and attempt to classify the MPESA transactions.
 - Once I have done this well, I'll start on a way for people to upload an MPESA text then have it spit out a spend/income category based on the contents
 
 There are several paths that this could follow after that but first things first.  I'll be using Jupyter-Lab for most of this until I'm at a point when it makes sense to put up a simple site or build an app. 
 
-I'll attempt to 'learn in public' as nudged on by a certain [Eric Gitonga](https://www.linkedin.com/in/egimba/?originalSubdomain=ke), and see how far I go with this - posting periodic updates here.
+I'll attempt to 'learn in public' (see updates below) as nudged on by a certain [Eric Gitonga](https://www.linkedin.com/in/egimba/?originalSubdomain=ke), and see how far I go with this - posting periodic updates here.
+
+#### Resources
+
+- [Github Repo](https://github.com/josiahmugambi/experiments-with-data/)
 
 ### Updates (in reverse chronological order)
+
+#### 05 Feb 2021
+I took a break from this project for the holidays, as well as to attempt two Google Cloud certification exams. After that, I needed to dig into some old (Safaricom) MPESA transactions to countercheck some old transaction details then realized I could kill two birds with one stone: get my data, while exploring MPESA statements.
+
+So far I have done the following:
+- Extracted data from PDF statements into a useful format. The PDF statements generated via MPESA App are not PIN protected so that's something I need to figure out later
+- Done some wrangling
+
+Next I hope to:
+- [ ] generate some general insights of my MPESA use over the last 2 years (I'm working with my 2020-2021 statements)
+- [ ] automate the process of getting my data to CSV (and/or BigQuery)
+- [ ] learn how to classify my MPESA transactions (probably via a natural language model) based on transaction detail
 
 #### 18th Dec 2021
 Goals for the day
@@ -33,10 +52,10 @@ Goals for the day
 - [X] label the small dataset
 - [X] figure out and implement a better way to do the training/test data split
     there are several ways. will try go through them at different points.
-- [ ] explore different classifiers
-- [ ] put some content up on learn.mugambi.co.ke
+- [X] explore different classifiers
+- [X] put some content up on learn.mugambi.co.ke
 
-Clearly I am rusty and have lots of way to go. I should have realised that my approach is wrong. But that's part of this process. I managed to label 150 rows but using a classifier this way is probably the wrong approach. 
+Clearly I am rusty and have lots of way to go. I should have realised that my approach is wrong. But that's part of this process. I managed to label 150 rows but using a classifier this way is probably the wrong approach.
 
 My current set of text message categories:
 - FINANCIAL - Banks, MPESA, Bills - will go deeper
@@ -51,7 +70,7 @@ Goals for the day
  - [X] take ~70% as training data and 30% as test data
  - [ ] label the 70% training data
  - [ ] attempt to classify 2019
- - [ ] put some content up on learn.mugambi.co.ke
+ - [X] put some content up on learn.mugambi.co.ke
 
 Quickly learning that labelling data will take far longer than expected (it's tedious!). Also that I should label the entire dataset. (Yes I forgot)
 
