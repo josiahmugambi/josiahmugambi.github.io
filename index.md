@@ -14,9 +14,9 @@ As someone who got into tech around the time of the Millenium Bug (some folks in
 - Cloud + DevOps (+ some Software Engineering on Golang): I started exploring cloud in depth in 2018/2019, while we were building a prototype SME  financing platform on Google Cloud.
 - **Data Engineering, Data Science:** - I've always been interested in data and makign sense of it. I did the 16 week course at [WQU's Applied Data Science Lab](https://www.wqu.edu/). For this, I'm now working on personal projects, and will be highlighting some here.
 
-Beyond Cloud and Data, I've had an interest in infosec and blockchain tech. For one of our projects in 2018, we looked at the Stellar Blockchain as a possible platform.
+Beyond Cloud (Infra, DevOps) and Data, I've had an interest in infosec and blockchain tech. For one of our projects in 2018, we looked at the Stellar Blockchain as a possible platform.
 
-> I've decided to focus my efforts on Data and Cloud.
+> I decided to focus my efforts on Data and Cloud.
 
 I'll do this while keeping tabs in general with infosec, blockchain and web3. I suspect that in order to really go deep on infosec I may have to sign up to a somewhat more structured or formal means of learning.
 
