@@ -1,8 +1,8 @@
 # Learning by doing
 
-I'd like to think that I'll be always be tinkering with tech and learning as a [lifelong learner](https://en.wikipedia.org/wiki/Lifelong_learning).
+I'd like to think that I'll be always be tinkering with tech and see myself as a [lifelong learner](https://en.wikipedia.org/wiki/Lifelong_learning).
 
-One thing that I haven't done too much however is the whole 'learn in public' thing. It takes a great deal of discipline and vulnerability. Let's see how this goes!
+One thing that I haven't done too much however is the whole 'learn in public' thing. It takes a great deal of discipline and vulnerability. Let's see how this goes! My plan is to write and post something every Thursday. Length and content will likely vary but I plan to keep it within the context below.
 
 ### Learn what?
 
